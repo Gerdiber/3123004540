@@ -15,4 +15,4 @@ def filterAndCut(content):
     cutText = jieba.lcut(filterdText)
     return cutText
 
-print(filterAndCut(readTXT("test.txt")))
+print(filterAndCut(readTXT("orig.txt")))
