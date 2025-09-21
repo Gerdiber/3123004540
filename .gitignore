@@ -6,3 +6,5 @@ orig_0.8_dis_1.txt
 orig_0.8_dis_10.txt
 smalltext1.txt
 smalltext2.txt
+.coverage
+result.prof
